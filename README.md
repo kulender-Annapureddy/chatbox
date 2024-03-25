@@ -12,9 +12,7 @@
 </pre>
 
 <h2>Build the app</h2>
-<hr>
 <p>npm run build</p>
 
 <h2>Start the app</h2>
-<hr>
 <p>npm start</p>
